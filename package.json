@@ -1,0 +1,15 @@
+{
+  "name": "booking-hotel-app-api",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
