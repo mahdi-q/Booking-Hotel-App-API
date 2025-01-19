@@ -8,7 +8,8 @@ const db = {
     {
       id: "1",
       name: "Nice room at Vondelpark",
-      xl_picture_url: "../images/image-1.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-1.jpg?raw=true",
       host_location: "Amsterdam, North Holland, Netherlands",
       smart_location: "Amsterdam, Netherlands",
       property_type: "Apartment",
@@ -24,7 +25,8 @@ const db = {
     {
       id: "2",
       name: "Cozy apartment center Madrid",
-      xl_picture_url: "../images/image-2.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-2.jpg?raw=true",
       host_location: "Madrid, Spain",
       smart_location: "Madrid, Spain",
       latitude: "40.4178743741405",
@@ -40,7 +42,8 @@ const db = {
     {
       id: "3",
       name: "Le Quartier Happy Angel Room",
-      xl_picture_url: "../images/image-3.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-3.jpg?raw=true",
       host_location: "Rome, Italy",
       smart_location: "Rome, Italy",
       latitude: "41.88917978666802",
@@ -56,7 +59,8 @@ const db = {
     {
       id: "4",
       name: "Trendy and spacious rooftop apt in centre",
-      xl_picture_url: "../images/image-4.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-4.jpg?raw=true",
       host_location: "Warsaw, Poland",
       smart_location: "Warsaw, Poland",
       latitude: "52.22233145663589",
@@ -72,7 +76,8 @@ const db = {
     {
       id: "5",
       name: "nice apartment in centre London",
-      xl_picture_url: "../images/image-5.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-5.jpg?raw=true",
       host_location: "London, United Kingdom",
       smart_location: "London, United Kingdom",
       latitude: "51.4888656577827",
@@ -88,7 +93,8 @@ const db = {
     {
       id: "6",
       name: "Paris, OUD-WEST",
-      xl_picture_url: "../images/image-6.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-6.jpg?raw=true",
       host_location: "Paris, France",
       smart_location: "Paris, France",
       latitude: "48.837153333924455",
@@ -104,7 +110,8 @@ const db = {
     {
       id: "7",
       name: "Romantic house in easy Lisbon, garden and cats",
-      xl_picture_url: "../images/image-7.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-7.jpg?raw=true",
       host_location: "Lisbon, Portugal",
       smart_location: "Lisbon, Portugal",
       latitude: "38.7114334617413",
@@ -120,7 +127,8 @@ const db = {
     {
       id: "8",
       name: "Fresh and bright in Baarsjes",
-      xl_picture_url: "../images/image-8.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-8.jpg?raw=true",
       host_location: "Berlin, Germany",
       smart_location: "Berlin, Germany",
       latitude: "52.515006473317875",
@@ -136,7 +144,8 @@ const db = {
     {
       id: "9",
       name: "Family home with garden, Oud West",
-      xl_picture_url: "../images/image-9.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-9.jpg?raw=true",
       host_location: "Oslo, Norway",
       smart_location: "Oslo, Norway",
       latitude: "59.90099132733527",
@@ -152,7 +161,8 @@ const db = {
     {
       id: "10",
       name: "Bright & Modern Apartment",
-      xl_picture_url: "../images/image-10.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-10.jpg?raw=true",
       host_location: "Stockholm, Sweden",
       smart_location: "Stockholm, Sweden",
       latitude: "59.29043572038731",
@@ -169,7 +179,8 @@ const db = {
     {
       id: "11",
       name: "Cozy Apartment in Downtown",
-      xl_picture_url: "../images/image-11.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-11.jpg?raw=true",
       host_location: "New York, NY, USA",
       smart_location: "New York, USA",
       property_type: "Apartment",
@@ -185,7 +196,8 @@ const db = {
     {
       id: "12",
       name: "Sunny Room with Balcony",
-      xl_picture_url: "../images/image-12.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-12.jpg?raw=true",
       host_location: "Barcelona, Catalonia, Spain",
       smart_location: "Barcelona, Spain",
       property_type: "Apartment",
@@ -201,7 +213,8 @@ const db = {
     {
       id: "13",
       name: "Modern Studio Near Beach",
-      xl_picture_url: "../images/image-13.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-13.jpg?raw=true",
       host_location: "Miami, FL, USA",
       smart_location: "Miami, USA",
       property_type: "Studio",
@@ -217,7 +230,8 @@ const db = {
     {
       id: "14",
       name: "Quiet Cottage in Countryside",
-      xl_picture_url: "../images/image-14.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-14.jpg?raw=true",
       host_location: "Cotswolds, England, UK",
       smart_location: "Cotswolds, UK",
       property_type: "Cottage",
@@ -233,7 +247,8 @@ const db = {
     {
       id: "15",
       name: "Shared Loft in City Center",
-      xl_picture_url: "../images/image-15.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-15.jpg?raw=true",
       host_location: "Berlin, Berlin, Germany",
       smart_location: "Berlin, Germany",
       property_type: "Loft",
@@ -249,7 +264,8 @@ const db = {
     {
       id: "16",
       name: "Luxury Villa with Pool",
-      xl_picture_url: "../images/image-16.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-16.jpg?raw=true",
       host_location: "Malibu, CA, USA",
       smart_location: "Malibu, USA",
       property_type: "Villa",
@@ -265,7 +281,8 @@ const db = {
     {
       id: "17",
       name: "Artistic Room Near Museum",
-      xl_picture_url: "../images/image-17.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-17.jpg?raw=true",
       host_location: "Paris, Île-de-France, France",
       smart_location: "Paris, France",
       property_type: "Apartment",
@@ -281,7 +298,8 @@ const db = {
     {
       id: "18",
       name: "Cozy Bungalow by the Lake",
-      xl_picture_url: "../images/image-18.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-18.jpg?raw=true",
       host_location: "Lake Tahoe, CA, USA",
       smart_location: "Lake Tahoe, USA",
       property_type: "Bungalow",
@@ -298,7 +316,7 @@ const db = {
       id: "19",
       name: "Minimalist Apartment in CBD",
       xl_picture_url:
-        "https://cdn.pixabay.com/photo/2014/07/31/21/41/apartment-406901_640.jpg",
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-19.jpg?raw=true",
       host_location: "Melbourne, Victoria, Australia",
       smart_location: "Melbourne, Australia",
       property_type: "Apartment",
@@ -314,7 +332,8 @@ const db = {
     {
       id: "20",
       name: "Rustic Cabin in the Woods",
-      xl_picture_url: "../images/image-20.jpg",
+      xl_picture_url:
+        "https://github.com/mahdi-q/Booking-Hotel-App-API/blob/master/images/image-20.jpg?raw=true",
       host_location: "Aspen, CO, USA",
       smart_location: "Aspen, USA",
       property_type: "Cabin",
