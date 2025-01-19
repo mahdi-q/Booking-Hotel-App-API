@@ -175,10 +175,11 @@ const db = {
       calendar_updated: "3 months ago",
       number_of_reviews: 2,
     },
-    {
+    
+{
 "id": "11",
 "name": "Cozy Apartment in Downtown",
-"xl_picture_url": "https://www.istockphoto.com/photo/modern-living-room-gm1344083240-422535612?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FCozy-Apartment-in-Downtown&utm_medium=affiliate&utm_source=unsplash&utm_term=Cozy+Apartment+in+Downtown%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2023/09/30/10/03/living-room-8285278_640.jpg",
 "host_location": "New York, NY, USA",
 "smart_location": "New York, USA",
 "property_type": "Apartment",
@@ -194,7 +195,7 @@ const db = {
 {
 "id": "12",
 "name": "Sunny Room with Balcony",
-"xl_picture_url": "https://www.istockphoto.com/photo/balcony-of-european-modern-apartment-building-with-shutters-outdoor-gm1469662291-500796222?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FSunny-Room-with-Balcony&utm_medium=affiliate&utm_source=unsplash&utm_term=Sunny+Room+with+Balcony%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2017/08/07/15/59/room-2605191_640.jpg",
 "host_location": "Barcelona, Catalonia, Spain",
 "smart_location": "Barcelona, Spain",
 "property_type": "Apartment",
@@ -210,7 +211,7 @@ const db = {
 {
 "id": "13",
 "name": "Modern Studio Near Beach",
-"xl_picture_url": "https://www.istockphoto.com/photo/sea-view-swimming-pool-in-modern-loft-design-luxury-ocean-beach-house-gm858282034-141648801?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FModern-hotel-Near-Beach&utm_medium=affiliate&utm_source=unsplash&utm_term=Modern+hotel+Near+Beach%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2023/03/29/10/27/hotel-7885138_640.jpg",
 "host_location": "Miami, FL, USA",
 "smart_location": "Miami, USA",
 "property_type": "Studio",
@@ -226,7 +227,7 @@ const db = {
 {
 "id": "14",
 "name": "Quiet Cottage in Countryside",
-"xl_picture_url": "https://www.istockphoto.com/photo/autumn-leaf-with-blurred-wooden-house-background-at-night-gm2187504657-606083719?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FQuiet-Cottage-in-Countryside&utm_medium=affiliate&utm_source=unsplash&utm_term=Quiet+Cottage+in+Countryside%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2017/06/03/11/37/giethoorn-2368494_640.jpg",
 "host_location": "Cotswolds, England, UK",
 "smart_location": "Cotswolds, UK",
 "property_type": "Cottage",
@@ -242,7 +243,7 @@ const db = {
 {
 "id": "15",
 "name": "Shared Loft in City Center",
-"xl_picture_url": "https://www.istockphoto.com/photo/young-businesspeople-at-work-in-the-office-gm1475803674-505210593?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FShared-Loft-in-City-Center&utm_medium=affiliate&utm_source=unsplash&utm_term=Shared+Loft+in+City+Center%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2021/11/09/20/58/home-6782365_1280.jpg",
 "host_location": "Berlin, Berlin, Germany",
 "smart_location": "Berlin, Germany",
 "property_type": "Loft",
@@ -258,7 +259,7 @@ const db = {
 {
 "id": "16",
 "name": "Luxury Villa with Pool",
-"xl_picture_url": "https://www.istockphoto.com/photo/futuristic-modern-villa-pool-on-the-sea-gm1309759362-399374835?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FLuxury-Villa-with-Pool&utm_medium=affiliate&utm_source=unsplash&utm_term=Luxury+Villa+with+Pool%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2023/11/07/13/44/house-8372418_640.jpg",
 "host_location": "Malibu, CA, USA",
 "smart_location": "Malibu, USA",
 "property_type": "Villa",
@@ -274,7 +275,7 @@ const db = {
 {
 "id": "17",
 "name": "Artistic Room Near Museum",
-"xl_picture_url": "https://www.istockphoto.com/photo/view-through-modern-metal-mesh-ceiling-in-city-background-with-copy-space-gm1370962080-440400669?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FArtistic-hotel-Near-Museum&utm_medium=affiliate&utm_source=unsplash&utm_term=Artistic+hotel+Near+Museum%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2016/11/30/08/48/bedroom-1872196_640.jpg",
 "host_location": "Paris, Île-de-France, France",
 "smart_location": "Paris, France",
 "property_type": "Apartment",
@@ -290,7 +291,7 @@ const db = {
 {
 "id": "18",
 "name": "Cozy Bungalow by the Lake",
-"xl_picture_url": "https://www.istockphoto.com/photo/adorable-family-of-three-at-the-terrace-looking-at-the-river-gm1326170073-410966449?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FCozy-Bungalow-by-the-Lake&utm_medium=affiliate&utm_source=unsplash&utm_term=Cozy+Bungalow+by+the+Lake%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2012/03/01/16/06/bungalow-20544_640.jpg",
 "host_location": "Lake Tahoe, CA, USA",
 "smart_location": "Lake Tahoe, USA",
 "property_type": "Bungalow",
@@ -306,7 +307,7 @@ const db = {
 {
 "id": "19",
 "name": "Minimalist Apartment in CBD",
-"xl_picture_url": "https://www.istockphoto.com/photo/3d-render-of-a-contemporary-living-room-interior-gm1357529184-431406269?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FMinimalist-Apartment-in-CBD&utm_medium=affiliate&utm_source=unsplash&utm_term=Minimalist+Apartment+in+CBD%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2014/07/31/21/41/apartment-406901_640.jpg",
 "host_location": "Melbourne, Victoria, Australia",
 "smart_location": "Melbourne, Australia",
 "property_type": "Apartment",
@@ -322,7 +323,7 @@ const db = {
 {
 "id": "20",
 "name": "Rustic Cabin in the Woods",
-"xl_picture_url": "https://www.istockphoto.com/photo/luxury-chalet-fireplace-bedroom-gm1308803159-398686488?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FRustic-Cabin-in-the-Woods&utm_medium=affiliate&utm_source=unsplash&utm_term=Rustic+Cabin+in+the+Woods%3A%3A%3A",
+"xl_picture_url": "https://cdn.pixabay.com/photo/2019/03/02/19/50/log-cabin-4030556_640.jpg",
 "host_location": "Aspen, CO, USA",
 "smart_location": "Aspen, USA",
 "property_type": "Cabin",
